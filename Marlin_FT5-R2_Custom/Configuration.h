@@ -735,11 +735,11 @@
 // @section machine
 
 // Travel limits after homing (units are in mm)
-#define X_MIN_POS 0
-#define Y_MIN_POS 0
+#define X_MIN_POS 10
+#define Y_MIN_POS 10
 #define Z_MIN_POS 0
-#define X_MAX_POS 300
-#define Y_MAX_POS 300
+#define X_MAX_POS 290
+#define Y_MAX_POS 290
 #define Z_MAX_POS 380
 
 // If enabled, axes won't move below MIN_POS in response to movement commands.
