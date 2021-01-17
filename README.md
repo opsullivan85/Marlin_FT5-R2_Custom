@@ -11,10 +11,10 @@ Old A4988 driver voltages
  * X: 555mV
 
 TMC2208 driver voltages
- * E: 775mV
- * Z: 635mV
- * Y: 1256mV
- * X: 555mV
+ * E: 550mV
+ * Z: 550mV
+ * Y: 1000mV
+ * X: 550mV
 
 # Mechanical Changes:
  * Custom extruder holder
