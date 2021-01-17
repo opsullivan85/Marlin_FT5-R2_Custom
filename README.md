@@ -14,7 +14,7 @@ TMC2208 driver voltages
  * E: 550mV
  * Z: 550mV
  * Y: 1000mV
- * X: 550mV
+ * X: 750mV
 
 # Mechanical Changes:
  * Custom extruder holder
